@@ -1,20 +1,20 @@
-# Code Review with AI 🚀  
+ Code Review with AI  
 
-## Overview  
+ Overview  
 Code Review AI is a web application that helps developers analyze their code quality using Google's Gemini API.  
 It reviews code, identifies potential mistakes, and provides feedback on improvements.  
 
-## Features ✨  
+ Features   
 - 📌 AI-powered code review  
 - ✅ Identifies bad coding practices  
 - 🔍 Suggests improvements  
 - 🖥️ User-friendly frontend with Vite  
 - ⚡ Fast and efficient Node.js backend  
 
-## Tech Stack 🛠  
-- **Frontend**: Vite, React  
-- **Backend**: Node.js, Express  
-- **AI API**: Gemini API  
+Tech Stack 
+- Frontend: Vite, React  
+- Backend: Node.js, Express  
+- AI API: Gemini API  
 
 Screenshots
 
